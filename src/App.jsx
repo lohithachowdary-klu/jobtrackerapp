@@ -12,7 +12,7 @@ import "./App.css";
 
 function App() {
   return (
-    <BrowserRouter basename="BrowserRouter">
+    <BrowserRouter>
 
       <Routes>
 
