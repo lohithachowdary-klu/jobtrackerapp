@@ -12,7 +12,7 @@ import "./App.css";
 
 function App() {
   return (
-    <BrowserRouter basename="/jobtrackerapp">
+    <BrowserRouter basename="BrowserRouter">
 
       <Routes>
 
